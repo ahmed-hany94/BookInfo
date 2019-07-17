@@ -1,3 +1,3 @@
 # BookInfo
 
-![](Assets/Screenshot_20190717-071927.jpg)
+![](Assets/main_activity.jpg)
