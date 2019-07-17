@@ -1,3 +1,3 @@
 # BookInfo
 
-![](Assets/main_activity.jpg)
+<img src="Assets/main_activity.jpg" width="300">
